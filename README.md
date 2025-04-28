@@ -15,8 +15,8 @@
 ###### Esse é um h6
 ---
 ## Adicionando ênfase no texto
-Negrito = **texto**
-Italico = *texto*
+Negrito = **texto** <br>
+Italico = *texto* <br>
 Misturado = *um texto em **negrito** e itálico*
 
 ---
